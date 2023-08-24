@@ -15,10 +15,10 @@ int sum(int a, int b) {
 int main() {
     // TODO: Implement the main function
     int x,y;
-    printf("enter num:");
+    printf("enter two numbers :");
     scanf("%d %d",&x,&y);
     int r=sum(x,y);
-    printf(" \n sum is : %d",r);
+    printf(" \n The sum is : %d",r);
 
     return 0;
 }

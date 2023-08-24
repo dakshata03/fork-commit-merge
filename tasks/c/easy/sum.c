@@ -12,8 +12,6 @@ int sum(int a, int b) {
         return sum(add, carry);
     }
 }
- 
-
 int main() {
     // TODO: Implement the main function
     int x,y;
